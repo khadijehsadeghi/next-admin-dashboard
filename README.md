@@ -4,6 +4,12 @@ Welcome, this is a admin dashboard with login and CRUD actions.
 
 dashboard pages that are protected by authentication. There is the ability to view all customers, as well as the ability for users to add, edit, and delete invoices.
 
+
+
+https://github.com/khadijehsadeghi/next-admin-dashboard/assets/140825672/bb90627e-c6a1-4443-a72a-b08e3af712ef
+
+
+
 # View Demo
 
 https://next-admin-dashboard-vvj6.vercel.app
