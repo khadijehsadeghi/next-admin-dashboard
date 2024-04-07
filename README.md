@@ -18,6 +18,7 @@ https://next-admin-dashboard-vvj6.vercel.app
 * Postgres database
 * Tailwindcss
 * Login
+* SignOut
 * CRUD Actions
 * Pagination
 * Search
